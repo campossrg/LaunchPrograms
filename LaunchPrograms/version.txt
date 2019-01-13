@@ -1,0 +1,19 @@
+﻿#######################################################
+##				     VERSION 1.0	                 ##
+#######################################################
+
+2018/01/13	SCR
+
+- Version inicial
+	- Cargar elementos
+	- Eliminar elementos
+	- Resetear lista de programas
+	- Lanzar lista de programas
+
+## VERSION 1.1 ##
+
+2018/01/13	SCR
+
+Corregido:
+- Añadida la ejecución del programa con permisos de administrador para poder añaidr programas exclusivos
+	
